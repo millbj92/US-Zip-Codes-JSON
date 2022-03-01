@@ -18,4 +18,5 @@ Generally, I just want to make sure that if someone were to load this into an AP
 
 
 Thanks for reading. And remember, I'm never NOT okay with it if you'd like to
+
 <a href="https://www.buymeacoffee.com/8gkG50zykS" target="_blank"><img src="bmb.png" alt="Buy Me A Beer" style="height: 60px !important;width: 217px !important;" ></a>
